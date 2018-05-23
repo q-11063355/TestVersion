@@ -14,6 +14,7 @@
 		58DA068420B530DB00A33B17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58DA068220B530DB00A33B17 /* LaunchScreen.storyboard */; };
 		58DA068720B530DB00A33B17 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 58DA068620B530DB00A33B17 /* main.m */; };
 		58DA068F20B5317A00A33B17 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58DA068E20B5317A00A33B17 /* OneViewController.m */; };
+		58DA069220B5320500A33B17 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58DA069120B5320500A33B17 /* TwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		58DA068620B530DB00A33B17 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		58DA068D20B5317A00A33B17 /* OneViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
 		58DA068E20B5317A00A33B17 /* OneViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
+		58DA069020B5320500A33B17 /* TwoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
+		58DA069120B5320500A33B17 /* TwoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				58DA067B20B530DA00A33B17 /* ViewController.m */,
 				58DA068D20B5317A00A33B17 /* OneViewController.h */,
 				58DA068E20B5317A00A33B17 /* OneViewController.m */,
+				58DA069020B5320500A33B17 /* TwoViewController.h */,
+				58DA069120B5320500A33B17 /* TwoViewController.m */,
 				58DA067D20B530DA00A33B17 /* Main.storyboard */,
 				58DA068020B530DB00A33B17 /* Assets.xcassets */,
 				58DA068220B530DB00A33B17 /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				58DA067C20B530DA00A33B17 /* ViewController.m in Sources */,
 				58DA068720B530DB00A33B17 /* main.m in Sources */,
 				58DA067920B530DA00A33B17 /* AppDelegate.m in Sources */,
+				58DA069220B5320500A33B17 /* TwoViewController.m in Sources */,
 				58DA068F20B5317A00A33B17 /* OneViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
